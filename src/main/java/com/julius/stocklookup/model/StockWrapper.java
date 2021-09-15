@@ -28,4 +28,5 @@ public class StockWrapper {
     public LocalDateTime getLastAccessed() {
         return lastAccessed;
     }
+
 }
